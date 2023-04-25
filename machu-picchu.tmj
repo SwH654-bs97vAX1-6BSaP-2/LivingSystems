@@ -3887,11 +3887,11 @@
         0,
         0,
         0,
-        2,
-        2,
-        2,
-        2,
         0,
+        2,
+        2,
+        2,
+        2,
         0,
         0,
         0,
@@ -6174,8 +6174,8 @@
           "name": "exit-to-living-systems",
           "visible": true,
           "x": 956.433808602388,
-          "y": 988.958929079099,
-          "height": 37.7620221948213,
+          "y": 996.935000863745,
+          "height": 29.7859504101752,
           "properties": [
             {
               "name": "exitUrl",
@@ -8309,7 +8309,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "machu-picchu-chunk-1-44aa89f8.png",
+      "image": "machu-picchu-chunk-1-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8335,7 +8335,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "machu-picchu-chunk-2-44aa89f8.png",
+      "image": "machu-picchu-chunk-2-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8350,7 +8350,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "machu-picchu-chunk-3-44aa89f8.png",
+      "image": "machu-picchu-chunk-3-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8365,7 +8365,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "machu-picchu-chunk-4-44aa89f8.png",
+      "image": "machu-picchu-chunk-4-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8380,7 +8380,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "machu-picchu-chunk-5-44aa89f8.png",
+      "image": "machu-picchu-chunk-5-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8395,7 +8395,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "machu-picchu-chunk-6-44aa89f8.png",
+      "image": "machu-picchu-chunk-6-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8410,7 +8410,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "machu-picchu-chunk-7-44aa89f8.png",
+      "image": "machu-picchu-chunk-7-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8425,7 +8425,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "machu-picchu-chunk-8-44aa89f8.png",
+      "image": "machu-picchu-chunk-8-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8440,7 +8440,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "machu-picchu-chunk-9-44aa89f8.png",
+      "image": "machu-picchu-chunk-9-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8455,7 +8455,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "machu-picchu-chunk-10-44aa89f8.png",
+      "image": "machu-picchu-chunk-10-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8470,7 +8470,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "machu-picchu-chunk-11-44aa89f8.png",
+      "image": "machu-picchu-chunk-11-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8485,7 +8485,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "machu-picchu-chunk-12-44aa89f8.png",
+      "image": "machu-picchu-chunk-12-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8500,7 +8500,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "machu-picchu-chunk-13-44aa89f8.png",
+      "image": "machu-picchu-chunk-13-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8515,7 +8515,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "machu-picchu-chunk-14-44aa89f8.png",
+      "image": "machu-picchu-chunk-14-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8530,7 +8530,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "machu-picchu-chunk-15-44aa89f8.png",
+      "image": "machu-picchu-chunk-15-124b70f5.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8545,7 +8545,7 @@
     {
       "columns": 12,
       "firstgid": 3841,
-      "image": "machu-picchu-chunk-16-44aa89f8.png",
+      "image": "machu-picchu-chunk-16-124b70f5.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,

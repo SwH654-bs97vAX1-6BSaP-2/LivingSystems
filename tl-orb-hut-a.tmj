@@ -8031,7 +8031,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-orb-hut-a-chunk-1-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-1-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8057,7 +8057,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-orb-hut-a-chunk-2-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-2-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8072,7 +8072,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-orb-hut-a-chunk-3-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-3-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8087,7 +8087,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-orb-hut-a-chunk-4-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-4-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8102,7 +8102,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-orb-hut-a-chunk-5-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-5-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8117,7 +8117,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-orb-hut-a-chunk-6-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-6-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8132,7 +8132,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-orb-hut-a-chunk-7-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-7-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8147,7 +8147,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-orb-hut-a-chunk-8-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-8-610cc0f8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -8162,7 +8162,7 @@
     {
       "columns": 15,
       "firstgid": 2049,
-      "image": "tl-orb-hut-a-chunk-9-f0aab79d.png",
+      "image": "tl-orb-hut-a-chunk-9-610cc0f8.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
