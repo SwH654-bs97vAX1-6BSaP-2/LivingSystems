@@ -10020,8 +10020,8 @@
           "id": 3,
           "name": "exit-to-main-building",
           "visible": true,
-          "x": 891.713268937468,
-          "y": 307.066598881545,
+          "x": 888.675140424632,
+          "y": 304.788002496918,
           "height": 43.7214031520081,
           "properties": [
             {
@@ -12037,12 +12037,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.8.4",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tl-resting-room-chunk-1-292be474.png",
+      "image": "tl-resting-room-chunk-1-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12068,7 +12068,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tl-resting-room-chunk-2-292be474.png",
+      "image": "tl-resting-room-chunk-2-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12083,7 +12083,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tl-resting-room-chunk-3-292be474.png",
+      "image": "tl-resting-room-chunk-3-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12098,7 +12098,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tl-resting-room-chunk-4-292be474.png",
+      "image": "tl-resting-room-chunk-4-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12113,7 +12113,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tl-resting-room-chunk-5-292be474.png",
+      "image": "tl-resting-room-chunk-5-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12128,7 +12128,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tl-resting-room-chunk-6-292be474.png",
+      "image": "tl-resting-room-chunk-6-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12143,7 +12143,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tl-resting-room-chunk-7-292be474.png",
+      "image": "tl-resting-room-chunk-7-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12158,7 +12158,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tl-resting-room-chunk-8-292be474.png",
+      "image": "tl-resting-room-chunk-8-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12173,7 +12173,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tl-resting-room-chunk-9-292be474.png",
+      "image": "tl-resting-room-chunk-9-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12188,7 +12188,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tl-resting-room-chunk-10-292be474.png",
+      "image": "tl-resting-room-chunk-10-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12203,7 +12203,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "tl-resting-room-chunk-11-292be474.png",
+      "image": "tl-resting-room-chunk-11-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12218,7 +12218,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "tl-resting-room-chunk-12-292be474.png",
+      "image": "tl-resting-room-chunk-12-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12233,7 +12233,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "tl-resting-room-chunk-13-292be474.png",
+      "image": "tl-resting-room-chunk-13-21be4081.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12248,7 +12248,7 @@
     {
       "columns": 10,
       "firstgid": 3329,
-      "image": "tl-resting-room-chunk-14-292be474.png",
+      "image": "tl-resting-room-chunk-14-21be4081.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
@@ -12288,6 +12288,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.8",
+  "version": "1.10",
   "width": 60
 }
